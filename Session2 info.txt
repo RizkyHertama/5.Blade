@@ -1,0 +1,15 @@
+//Install composer
+composer install --ignore-platform-reqs
+
+//ubah nama database
+1. Buat nama database terlebih dahulu.
+2. Sesuaikan nama database pada file .env
+3. Migrasi database ke laravel 
+semua database terdapat pada file .env
+
+
+//Migrasi database dari laravel ke xampp
+php artisan migrate:fresh --seed
+
+//Membuat sebuah controller baru letaknya : app->http->Controllers
+php artisan  make:controller ProductController
