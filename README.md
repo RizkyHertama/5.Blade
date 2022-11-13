@@ -36,3 +36,8 @@ Sport Car View :
 <br>
 <br>
 
+Implementasi : 
+<br> Controller
+![image](https://user-images.githubusercontent.com/81372683/201524968-1ebaa467-9c3c-41b5-8bc7-0834cc759b67.png)
+<br>
+<br>
