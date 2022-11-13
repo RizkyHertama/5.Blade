@@ -16,7 +16,7 @@
                       <h5 class="card-title">{{$d->name}}</h5>
                       <p class="card-text">{{$d->price}}</p>
 
-                    <span class="badge bg-danger">{{$d->type}}</span> 
+                    <span class="badge bg-success">{{$d->type}}</span> 
 
                     
                     </div>
